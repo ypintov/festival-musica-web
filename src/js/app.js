@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function iniciarApp() {
   navegacionFija();
   crearGaleria();
-  crearGaleria();
+  scrollNav();
 }
 
 function navegacionFija() {
